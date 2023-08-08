@@ -1,0 +1,115 @@
+.show-summary-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    background-color: #f0f5ff; /* Light blue background */
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Add a subtle shadow */
+  }
+  
+  .show-summary-container h2 {
+    font-size: 28px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    color: #1e2164; /* Dark blue heading text color */
+  }
+  
+  .show-summary-container p {
+    margin-bottom: 8px;
+    color: #555;
+  }
+  
+  .show-summary-container img {
+    width: 100%;
+    max-height: 400px;
+    object-fit: cover;
+    border-radius: 10px;
+    margin-bottom: 20px;
+  }
+  
+  .show-summary-container .summary {
+    line-height: 1.6;
+    text-align: justify;
+    color: #333;
+  }
+  
+  .show-summary-container button {
+    background-color: #f1545f;
+    color: #fff;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 12px 24px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-bottom: 20px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .show-summary-container button:hover {
+    background-color: #e03649; /* Slightly darker shade on hover */
+  }
+  
+  .show-summary-container form {
+    display: flex;
+    flex-direction: column;
+    max-width: 400px;
+    margin: 0 auto;
+  }
+  
+  .show-summary-container form h3 {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    color: #1e2164; /* Dark blue form heading text color */
+  }
+  
+  .show-summary-container form label {
+    font-size: 16px;
+    margin-bottom: 8px;
+    color: #333;
+  }
+  
+  .show-summary-container form input {
+    padding: 10px;
+    font-size: 16px;
+    margin-bottom: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .show-summary-container form button {
+    background-color: #f1545f;
+    color: #fff;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 12px 24px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .show-summary-container form button:hover {
+    background-color: #e03649; /* Slightly darker shade on hover */
+  }
+  
+  /* Additional information section */
+  .show-summary-container .additional-info {
+    margin-top: 40px;
+    border-top: 1px solid #ccc;
+    padding-top: 20px;
+  }
+  
+  .show-summary-container .additional-info h4 {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    color: #1e2164; /* Dark blue additional info heading text color */
+  }
+  
+  .show-summary-container .additional-info p {
+    margin-bottom: 8px;
+    color: #333;
+  }
