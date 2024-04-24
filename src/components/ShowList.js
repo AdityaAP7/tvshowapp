@@ -20,6 +20,7 @@ const ShowList = () => {
       console.error('Error fetching shows:', error);
     }
   };
+  //Started implementing the axios to fetch the data so we can use the interceptors
 
   return (
     <div>
