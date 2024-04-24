@@ -6,6 +6,8 @@ import ShowSummary from './components/ShowSummary';
 import SearchResults from './components/SearchResults';
 import './components/Navbar.css';
 import Footer from './components/Footer';
+//Changed the theme
+
 
 const App = () => {
   const [searchQuery, setSearchQuery] = useState('');
