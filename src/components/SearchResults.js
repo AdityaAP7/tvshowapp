@@ -13,10 +13,11 @@ const SearchResults = ({ results }) => {
           </li>
         ))}
       </ul>
+          
     </div>
   );
 };
-
+// updated code
 export default SearchResults;
 
 //ok
