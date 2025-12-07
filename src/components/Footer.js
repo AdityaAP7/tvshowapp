@@ -1,4 +1,4 @@
-7654321import React from 'react';
+87654321import React from 'react';
 import './Footer.css'; // Import the Footer CSS fil
 const Footer = () => {
   return (
